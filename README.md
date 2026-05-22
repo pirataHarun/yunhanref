@@ -30,7 +30,8 @@
 <div align="center">
   <h3>🇹🇷 1881 - 1938 ♾️</h3>
   
-  <div class="tenor-gif-embed" data-postid="10357564473435227020" data-share-method="host" data-aspect-ratio="0.837349" data-width="100%"><a href="https://tenor.com/view/kemalistler1881-gif-10357564473435227020">Kemalistler1881 Meme</a>from <a href="https://tenor.com/search/kemalistler1881-memes">Kemalistler1881 Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img width="417" height="498" alt="kemalistler1881" src="https://github.com/user-attachments/assets/218f3af5-a75c-4d59-a173-0fb5435cd77a" />
+
   
   <br>
   <br>
