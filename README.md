@@ -30,7 +30,7 @@
 <div align="center">
   <h3>🇹🇷 1881 - 1938 ♾️</h3>
   
- <img width="736" height="887" alt="ataturk" src="https://github.com/user-attachments/assets/f5987caf-719f-4b2b-ba3f-ffabe99c573b" />
+ <img width="552" height="665" alt="ataturk" src="https://github.com/user-attachments/assets/f5987caf-719f-4b2b-ba3f-ffabe99c573b" />
 
 
   
