@@ -30,7 +30,7 @@
 <div align="center">
   <h3>🇹🇷 1881 - 1938 ♾️</h3>
   
-  <img src="https://media.tenor.com/7L3cI9oK92cAAAAC/mustafa-kemal-atat%C3%BCrk-atat%C3%BCrk.gif" alt="Mustafa Kemal Atatürk" width="250" style="border-radius: 10px;" />
+  <img src="[https://media.tenor.com/7L3cI9oK92cAAAAC/mustafa-kemal-atat%C3%BCrk-atat%C3%BCrk.gif](https://tenor.com/tr/view/kemalistler1881-gif-10357564473435227020)" alt="Mustafa Kemal Atatürk" width="250" style="border-radius: 10px;" />
   
   <br>
   <br>
