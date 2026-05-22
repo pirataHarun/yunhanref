@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 Studying **Artificial Intelligence and Machine Learning** at **Manisa Celal Bayar University**.
-* 🧠 Deeply interested in **Data Structures, Algorithm Analysis**, and **Digital Logic Design**.
+* 🧠 Deeply interested in **Data Structures and Algorithm Analysis**.
 * 🚀 Always eager to learn, build, and contribute to impactful projects.
 
 ---
