@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Merhaba,+Ben+[Adın]+%F0%9F%91%8B;Yapay+Zeka+ve+Makine+%C3%96%C4%9Frenmesi+%C3%96%C4%9Frencisi;Manisa+Celal+Bayar+%C3%9Cniversitesi;Algoritma+ve+Elektronik+Tutkunu" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi,+I'm+Eren+%F0%9F%91%8B;Artificial+Intelligence+and+Machine+Learning;Manisa+Celal+Bayar+University;Algorithms+and+Electronics" alt="Typing Animation" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### About Me
 
-* 🎓 **Manisa Celal Bayar Üniversitesi** **Yapay Zeka ve Makine Öğrenmesi**.
+* 🎓 **Manisa Celal Bayar University** **Artificial Intelligence and Machine Learning**.
 ---
 
 ### 🛠️ Technologies
