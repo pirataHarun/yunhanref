@@ -23,25 +23,3 @@
 </p>
 
 ---
-
-### 📊 Github Statistics
-
-<div align="center">
-  <!-- "[kullaniciadin]" yazan yerlere kendi GitHub kullanıcı adını yazmayı unutma! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[kullaniciadin]&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=333333" alt="GitHub İstatistikleri" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kullaniciadin]&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=333333" alt="En Çok Kullanılan Diller" height="150"/>
-</div>
-
----
-
-### 📫 Info
-
-<!-- Linkleri kendi hesaplarına göre düzenle -->
-<p align="left">
-  <a href="mailto:senine-postan@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/[kullaniciadin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
