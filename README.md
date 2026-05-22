@@ -30,7 +30,7 @@
 <div align="center">
   <h3>🇹🇷 1881 - 1938 ♾️</h3>
   
- <img width="417" height="498" alt="kemalistler1881" src="https://github.com/user-attachments/assets/218f3af5-a75c-4d59-a173-0fb5435cd77a" />
+ <img width="480" height="587" alt="atatürk" src="https://github.com/user-attachments/assets/3045c3f4-aed4-463a-ac00-8eb4d888fd2e" />
 
   
   <br>
