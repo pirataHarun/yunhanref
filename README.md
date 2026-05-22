@@ -3,34 +3,28 @@
 </div>
 
 <p align="center">
-  Gece gündüz veri setleri, algoritmalar ve mantık devreleri arasında gezinen bir teknoloji meraklısı.
+  
 </p>
 
 ---
 
-### 👨‍💻 Benim Hakkımda
+### About Me
 
-* 🎓 **Manisa Celal Bayar Üniversitesi**'nde **Yapay Zeka ve Makine Öğrenmesi** bölümünde öğrenim görüyorum.
-* 🧠 Şu sıralar **algoritma analizi** (özellikle Bubble, Selection ve Insertion Sort gibi temel sıralama algoritmaları) ve arama yöntemleri üzerine derinleşiyorum.
-* 🔌 Sadece yazılımla kalmıyor, **dijital mantık devreleri**, breadboard kurulumları ve donanım bileşenleri ile pratik yapmayı seviyorum.
-* 🌍 Kendimi akademik olarak uluslararası alanda da geliştirmek için **Erasmus+ (KA152)** gençlik projeleri ve değişim programlarını yakından takip ediyorum.
-* 🎭 Kod ekranından uzaklaştığımda beni **devlet ve şehir tiyatrolarında** yeni oyunlar keşfederken veya **borsa/yatırım** stratejileri üzerine kafa yorarken bulabilirsiniz.
-
+* 🎓 **Manisa Celal Bayar Üniversitesi** **Yapay Zeka ve Makine Öğrenmesi**.
 ---
 
-### 🛠️ İlgi Alanlarım ve Yetkinliklerim
+### 🛠️ Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-007ACC?style=for-the-badge&logoColor=white" alt="Yapay Zeka" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logoColor=white" alt="Makine Öğrenmesi" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4CAF50?style=for-the-badge&logoColor=white" alt="Algoritmalar" />
-  <img src="https://img.shields.io/badge/Digital_Logic_Design-E53935?style=for-the-badge&logoColor=white" alt="Mantık Devreleri" />
-  <img src="https://img.shields.io/badge/Physics_Calculations-8E44AD?style=for-the-badge&logoColor=white" alt="Fizik" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-007ACC?style=for-the-badge&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4CAF50?style=for-the-badge&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Digital_Logic_Design-E53935?style=for-the-badge&logoColor=white" alt="Logic" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 Github Statistics
 
 <div align="center">
   <!-- "[kullaniciadin]" yazan yerlere kendi GitHub kullanıcı adını yazmayı unutma! -->
@@ -40,7 +34,7 @@
 
 ---
 
-### 📫 Bana Ulaşın
+### 📫 Info
 
 <!-- Linkleri kendi hesaplarına göre düzenle -->
 <p align="left">
