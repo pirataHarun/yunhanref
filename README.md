@@ -13,7 +13,7 @@
 * 🎓 Studying **Artificial Intelligence and Machine Learning** at **Manisa Celal Bayar University**.
 * 🧠 Deeply interested in **Data Structures and Algorithm Analysis**.
 * 🚀 Always eager to learn, build, and contribute to impactful projects.
-* 👤 Main Acc "https://github.com/iwalyn"
+
 
 ---
 
@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4CAF50?style=for-the-badge&logoColor=white" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Digital_Logic_Design-E53935?style=for-the-badge&logoColor=white" alt="Logic" />
 </p>
+
+---
+* 👤 Main Acc "https://github.com/iwalyn"
 
 ---
 
@@ -42,3 +45,4 @@
 </div>
 
 ---
+
