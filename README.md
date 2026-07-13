@@ -30,7 +30,7 @@
 
 ###  Socials
 
-*  [Personal Website](yunhanref.com)
+*  [Personal Website](https://www.yunhanref.com)
 *  [Youtube](https://www.youtube.com/@YunhanrefTechnologies) 
 *  [Instagram](https://www.instagram.com/yun.han.ref/)
 
