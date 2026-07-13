@@ -8,16 +8,16 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-* 🎓 Studying **Artificial Intelligence and Machine Learning** at **Manisa Celal Bayar University**.
-* 🧠 Deeply interested in **Data Structures and Algorithm Analysis**.
-* 🚀 Always eager to learn, build, and contribute to impactful projects.
+*  Studying **Artificial Intelligence Engineering** at **Manisa Celal Bayar University**.
+*  Deeply interested in **Data Structures, Algorithm Analysis, Embedded Systems and Game Development.**.
+*  Always eager to learn, build, and contribute to impactful projects.
 
 
 ---
 
-### 🛠️ Technologies
+###  Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Artificial_Intelligence-007ACC?style=for-the-badge&logoColor=white" alt="Artificial Intelligence" />
@@ -27,7 +27,12 @@
 </p>
 
 ---
-* 👤 Main Acc "https://github.com/iwalyn"
+
+###  Socials
+
+*  [Personal Website](yunhanref.com)
+*  [Youtube](https://www.youtube.com/@YunhanrefTechnologies) 
+*  [Instagram](https://www.instagram.com/yun.han.ref/)
 
 ---
 
