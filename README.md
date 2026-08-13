@@ -2,11 +2,11 @@
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
 │                            ML Engineer / Software Architect                               │
 │                                                                                           │
-│          I'm an AI & ML engineering student  on the ML track with a parallel              │
+│    I'm an AI & ML engineering student  on the ML track with a parallel career as a        │
+│  low-level  system architect.                                                             │
+│  I combine low-level software with deep engineering to build AI systems.                  │
 │                                                                                           │
-│     career as a low-level  system architect                                               │
 │                                                                                           │
-│     I combine low-level software with deep engineering to build AI systems                │
 │                                                                                           │
 │                                                                                           │
 │                      ┌<~~xx~~>>┐                                                          │
