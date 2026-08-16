@@ -64,6 +64,48 @@
 * xxx
 * xxx
 * xxx
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/pytorch.svg" width="48" height="48" alt="pytorch" /></a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/pandas.svg" width="48" height="48" alt="pandas" /></a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/tensorflow.svg" width="48" height="48" alt="tensorflow" /></a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/rust.svg" width="48" height="48" alt="rust" /></a>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/cpp.svg" width="48" height="48" alt="cpp" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/linux.svg" width="48" height="48" alt="linux" /></a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/asm.svg" width="48" height="48" alt="assemby" /></a>
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/arduino.svg" width="48" height="48" alt="arduino" /></a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#yunhanref"><img src="./img/Luau.svg" width="48" height="48" alt="luau" /></a>
+      <br>Luau
+    </td>       
+  </tr>
+</table>
 
 * 📊   Open-source activity and repository highlights:
 
