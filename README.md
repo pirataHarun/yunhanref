@@ -120,10 +120,10 @@
   <i>My Socials</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://yunhanref.com"><img src="https://icons8.com/icon/VKILjMBl2qYa/document"/></a>
+<a href= "https://www.linkedin.com/in/mehmet-eren-gumus/"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/></a>
+<a href= "https://www.instagram.com/yun.han.ref/"><img src="https://icons8.com/icon/BrU2BBoRXiWq/instagram-logo"/></a>
+<a href= "https://halfrost.com"><img src="https://icons8.com/icon/2mIgusGquJFz/discord"/></a>
 </p>
 
 </p>
