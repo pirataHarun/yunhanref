@@ -126,9 +126,4 @@
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>       
-</p>
-
 </p>
