@@ -81,7 +81,7 @@
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-      <a href="#yunhanref"><img src="./img/rust.svg" width="48" height="48" alt="rust" /></a>
+      <a href="#yunhanref"><img src="./img/Rust.svg" width="48" height="48" alt="rust" /></a>
       <br>Rust
     </td>
     <td align="center" width="96">
