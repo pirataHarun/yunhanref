@@ -55,7 +55,7 @@
                             *
 ```                                                                             
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>xxx</summary>
   <br>
 
 * xxx
@@ -64,8 +64,8 @@
 * xxx
 * xxx
 * xxx
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
