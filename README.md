@@ -55,15 +55,13 @@
                             *
 ```                                                                             
 <details>
-  <summary>xxx</summary>
+  <summary>---More About Me---</summary>
   <br>
 
-* xxx
-* xxx
-* xxx
-* xxx
-* xxx
-* xxx
+<p align='center'>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
+</p>
+
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
@@ -119,7 +117,7 @@
   
 <hr>
 <p align="center">
-  <i>xxx</i>
+  <i>My Socials</i>
 
 <p align="center">
 <a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
