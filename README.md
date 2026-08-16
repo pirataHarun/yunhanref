@@ -58,9 +58,7 @@
   <summary>---More About Me---</summary>
   <br>
 
-<p align='center'>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
-</p>
+
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
@@ -112,7 +110,9 @@
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=yunhanref&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=one_dark_pro" alt="yunhanref's GitHub stats" />
 <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&column=7&theme=onedark" alt="yunhanref's GitHub trophy" />
 </p>
-
+<p align='center'>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yunhanref.yunhanref" alt="visitor badge"/>  
+</p>
 </details>
   
 <hr>
