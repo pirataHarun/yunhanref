@@ -68,8 +68,8 @@
 * 📊   Open-source activity and repository highlights:
 
 <p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=dracula&langs_count=8" alt="yunhanref's top languages" />
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=yunhanref&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=vue" alt="yunhanref's GitHub stats" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yunhanref&layout=compact&theme=panda&langs_count=8" alt="yunhanref's top languages" />
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=yunhanref&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=panda" alt="yunhanref's GitHub stats" />
 <img align="center" src="https://github-profile-trophy-rust.vercel.app/?username=yunhanref&title=Stars,Commits,Followers,Issues,PullRequest,Repositories,Reviews,AllSuperRank,MultiLanguage,LongTimeUser,AncientUser,OGUser,Joined2020,Organizations,Experience&column=7&theme=panda" alt="yunhanref's GitHub trophy" />
 </p>
 
