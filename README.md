@@ -93,7 +93,7 @@
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#yunhanref"><img src="./img/asm.svg" width="52" height="48" alt="assemby" /></a>
+      <a href="#yunhanref"><img src="./img/asm.svg" width="32" height="48" alt="assemby" /></a>
       <br>Assembly
     </td>
     <td align="center" width="96">
